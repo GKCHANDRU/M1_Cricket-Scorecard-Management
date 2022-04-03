@@ -1,2 +1,2 @@
-# M1_Cricket-Scorecard-Management
+# M1_Cricket Scorecard Management
 Cricket Scorecard Management using c
