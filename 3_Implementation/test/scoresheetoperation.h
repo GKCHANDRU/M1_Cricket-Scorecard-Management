@@ -1,13 +1,4 @@
-/**
- * @file scoresheet.h
- * @author A Mohammed Asif (asif1234499@gmail.com)
- * @brief Declaring the functions for user operations
- * @version 0.1
- * @date 2021-11-23
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 void filing()
 {
 //    system("cls");
